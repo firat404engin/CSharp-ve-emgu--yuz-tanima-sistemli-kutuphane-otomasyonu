@@ -1,0 +1,117 @@
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.xml
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.Util.xml
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.AssemblyReference.cache
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.AssemblyReference.cache
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\MultiFaceRec.exe.config
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFac.7A2BD348.Up2Date
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.anaform.resources
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.sifretalebi.resources
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.yetkili_giris.resources
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.uyeekle.resources
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.yoneticipanel.resources
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.ogrenci_menu.resources
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.odunc.resources
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.dogrula.resources
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.ogrenciguncelle.resources
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.ogrenci_bilgiguncelle.resources
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.uyeislemleri.resources
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.kitapekle.resources
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.kitaplarim.resources
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.gecikmiskitaplar.resources
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\RestSharp.dll
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\System.Buffers.dll
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\System.CodeDom.dll
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\System.Memory.dll
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\System.Text.Json.dll
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\System.ValueTuple.dll
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\RestSharp.xml
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\System.Buffers.xml
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\System.CodeDom.xml
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\System.Memory.xml
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\System.Text.Json.xml
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\bin\Debug\System.ValueTuple.xml
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.encokalınan.resources
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.destek.resources
+C:\Users\fengi\Desktop\proje2görüntü\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.oduncalinanlar.resources
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\MultiFaceRec.exe.config
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\RestSharp.dll
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\System.Buffers.dll
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\System.CodeDom.dll
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\System.Memory.dll
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\System.Text.Json.dll
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\System.ValueTuple.dll
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\RestSharp.xml
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\System.Buffers.xml
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\System.CodeDom.xml
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\System.Memory.xml
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\System.Text.Json.xml
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\System.ValueTuple.xml
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.AssemblyReference.cache
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.anaform.resources
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.destek.resources
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.dogrula.resources
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.encokalınan.resources
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.gecikmiskitaplar.resources
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.kitapekle.resources
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.kitaplarim.resources
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.odunc.resources
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.oduncalinanlar.resources
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.ogrenciguncelle.resources
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.ogrenci_bilgiguncelle.resources
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.ogrenci_menu.resources
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.sifretalebi.resources
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.uyeekle.resources
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.uyeislemleri.resources
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.yetkili_giris.resources
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.yoneticipanel.resources
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFac.7A2BD348.Up2Date
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\fengi\Desktop\PROJE 2 SON VERSİYON\Face-Detection-main\FaceRecProOV\bin\Debug\MultiFaceRec.pdb

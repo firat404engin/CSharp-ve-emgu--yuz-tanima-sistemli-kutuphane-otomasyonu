@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+# Varsayılan olarak tüm metin dosyalarında CRLF kullan
+* text eol=crlf
+
+# Unix tabanlı dosyalarda LF kullan
+*.sh text eol=lf
+*.xml text eol=lf

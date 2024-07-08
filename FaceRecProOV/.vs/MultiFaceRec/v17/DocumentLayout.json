@@ -1,0 +1,686 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\uyeislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:uyeislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\uyeislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:uyeislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\sifresifreleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:sifresifreleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\eigenobjectrecognizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:eigenobjectrecognizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\veritabani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:veritabani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\yetkili_giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:yetkili_giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\yuz_tanima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:yuz_tanima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\yoneticipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:yoneticipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\yoneticipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:yoneticipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\yuz_tanima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:yuz_tanima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\yetkili_giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:yetkili_giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\uyeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:uyeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\uyeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:uyeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\sifretalebi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:sifretalebi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\sifretalebi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:sifretalebi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\ogrenciguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:ogrenciguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\ogrenciguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:ogrenciguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\ogrenci_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:ogrenci_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\ogrenci_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:ogrenci_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\ogrenci_bilgiguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:ogrenci_bilgiguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\ogrenci_bilgiguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:ogrenci_bilgiguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\oduncalinanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:oduncalinanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\oduncalinanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:oduncalinanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\odunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:odunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\odunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:odunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\kitaplarim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:kitaplarim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\kitaplarim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:kitaplarim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\kitapekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:kitapekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\kitapekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:kitapekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\gecikmiskitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:gecikmiskitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\gecikmiskitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:gecikmiskitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\encokal\u0131nan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:encokal\u0131nan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\encokal\u0131nan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:encokal\u0131nan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\dogrula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:dogrula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\dogrula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:dogrula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\destek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:destek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\destek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:destek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|c:\\users\\fengi\\desktop\\proje 2 son vers\u0130yon\\face-detection-main\\facerecproov\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC813884-5D90-4044-9571-8FB7C54D9612}|MultiFaceRec.csproj|solutionrelative:anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 216,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "yoneticipanel.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\yoneticipanel.cs",
+              "RelativeDocumentMoniker": "yoneticipanel.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\yoneticipanel.cs",
+              "RelativeToolTip": "yoneticipanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:17:53.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "yoneticipanel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\yoneticipanel.cs",
+              "RelativeDocumentMoniker": "yoneticipanel.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\yoneticipanel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "yoneticipanel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:17:52.499Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "yuz_tanima.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\yuz_tanima.cs",
+              "RelativeDocumentMoniker": "yuz_tanima.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\yuz_tanima.cs [Tasar\u0131m]",
+              "RelativeToolTip": "yuz_tanima.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:17:35.769Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "yetkili_giris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\yetkili_giris.cs",
+              "RelativeDocumentMoniker": "yetkili_giris.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\yetkili_giris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "yetkili_giris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:17:28.723Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "veritabani.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\veritabani.cs",
+              "RelativeDocumentMoniker": "veritabani.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\veritabani.cs",
+              "RelativeToolTip": "veritabani.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:17:15.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EigenObjectRecognizer.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\EigenObjectRecognizer.cs",
+              "RelativeDocumentMoniker": "EigenObjectRecognizer.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\EigenObjectRecognizer.cs",
+              "RelativeToolTip": "EigenObjectRecognizer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:17:11.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:17:10.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sifresifreleme.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\sifresifreleme.cs",
+              "RelativeDocumentMoniker": "sifresifreleme.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\sifresifreleme.cs",
+              "RelativeToolTip": "sifresifreleme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:17:08.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "uyeislemleri.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\uyeislemleri.cs",
+              "RelativeDocumentMoniker": "uyeislemleri.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\uyeislemleri.cs",
+              "RelativeToolTip": "uyeislemleri.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAlwIUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:16:54.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "uyeislemleri.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\uyeislemleri.cs",
+              "RelativeDocumentMoniker": "uyeislemleri.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\uyeislemleri.cs [Tasar\u0131m]",
+              "RelativeToolTip": "uyeislemleri.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:16:53.649Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "uyeekle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\uyeekle.cs",
+              "RelativeDocumentMoniker": "uyeekle.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\uyeekle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "uyeekle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:16:41.347Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "yuz_tanima.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\yuz_tanima.cs",
+              "RelativeDocumentMoniker": "yuz_tanima.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\yuz_tanima.cs",
+              "RelativeToolTip": "yuz_tanima.cs",
+              "ViewState": "AQIAANIAAAAAAAAAAAAlwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:09:17.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "sifretalebi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\sifretalebi.cs",
+              "RelativeDocumentMoniker": "sifretalebi.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\sifretalebi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "sifretalebi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:16:35.559Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "yetkili_giris.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\yetkili_giris.cs",
+              "RelativeDocumentMoniker": "yetkili_giris.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\yetkili_giris.cs",
+              "RelativeToolTip": "yetkili_giris.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:09:16.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ogrenciguncelle.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\ogrenciguncelle.cs",
+              "RelativeDocumentMoniker": "ogrenciguncelle.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\ogrenciguncelle.cs",
+              "RelativeToolTip": "ogrenciguncelle.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAlwEUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:16:30.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ogrenciguncelle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\ogrenciguncelle.cs",
+              "RelativeDocumentMoniker": "ogrenciguncelle.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\ogrenciguncelle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ogrenciguncelle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:16:29.645Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ogrenci_menu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\ogrenci_menu.cs",
+              "RelativeDocumentMoniker": "ogrenci_menu.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\ogrenci_menu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ogrenci_menu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:16:24.699Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ogrenci_bilgiguncelle.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\ogrenci_bilgiguncelle.cs",
+              "RelativeDocumentMoniker": "ogrenci_bilgiguncelle.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\ogrenci_bilgiguncelle.cs",
+              "RelativeToolTip": "ogrenci_bilgiguncelle.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAlwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:16:19.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ogrenci_bilgiguncelle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\ogrenci_bilgiguncelle.cs",
+              "RelativeDocumentMoniker": "ogrenci_bilgiguncelle.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\ogrenci_bilgiguncelle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ogrenci_bilgiguncelle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:16:18.439Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "oduncalinanlar.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\oduncalinanlar.cs",
+              "RelativeDocumentMoniker": "oduncalinanlar.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\oduncalinanlar.cs",
+              "RelativeToolTip": "oduncalinanlar.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAlwCQAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:16:11.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "uyeekle.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\uyeekle.cs",
+              "RelativeDocumentMoniker": "uyeekle.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\uyeekle.cs",
+              "RelativeToolTip": "uyeekle.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAlwMcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:09:16.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "oduncalinanlar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\oduncalinanlar.cs",
+              "RelativeDocumentMoniker": "oduncalinanlar.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\oduncalinanlar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "oduncalinanlar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:16:10.274Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "sifretalebi.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\sifretalebi.cs",
+              "RelativeDocumentMoniker": "sifretalebi.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\sifretalebi.cs",
+              "RelativeToolTip": "sifretalebi.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAlwFUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:09:15.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "odunc.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\odunc.cs",
+              "RelativeDocumentMoniker": "odunc.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\odunc.cs [Tasar\u0131m]",
+              "RelativeToolTip": "odunc.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:15:59.668Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "kitaplarim.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\kitaplarim.cs",
+              "RelativeDocumentMoniker": "kitaplarim.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\kitaplarim.cs",
+              "RelativeToolTip": "kitaplarim.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAlwFUAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:15:51.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "kitaplarim.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\kitaplarim.cs",
+              "RelativeDocumentMoniker": "kitaplarim.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\kitaplarim.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kitaplarim.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:15:50.837Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ogrenci_menu.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\ogrenci_menu.cs",
+              "RelativeDocumentMoniker": "ogrenci_menu.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\ogrenci_menu.cs",
+              "RelativeToolTip": "ogrenci_menu.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAlwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:09:14.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "kitapekle.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\kitapekle.cs",
+              "RelativeDocumentMoniker": "kitapekle.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\kitapekle.cs",
+              "RelativeToolTip": "kitapekle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:15:45.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "kitapekle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\kitapekle.cs",
+              "RelativeDocumentMoniker": "kitapekle.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\kitapekle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kitapekle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:15:44.433Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "gecikmiskitaplar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\gecikmiskitaplar.cs",
+              "RelativeDocumentMoniker": "gecikmiskitaplar.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\gecikmiskitaplar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "gecikmiskitaplar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:15:36.964Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "encokal\u0131nan.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\encokal\u0131nan.cs",
+              "RelativeDocumentMoniker": "encokal\u0131nan.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\encokal\u0131nan.cs",
+              "RelativeToolTip": "encokal\u0131nan.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAACEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:15:29.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "encokal\u0131nan.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\encokal\u0131nan.cs",
+              "RelativeDocumentMoniker": "encokal\u0131nan.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\encokal\u0131nan.cs [Tasar\u0131m]",
+              "RelativeToolTip": "encokal\u0131nan.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:15:27.699Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "dogrula.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\dogrula.cs",
+              "RelativeDocumentMoniker": "dogrula.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\dogrula.cs [Tasar\u0131m]",
+              "RelativeToolTip": "dogrula.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:15:21.307Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "odunc.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\odunc.cs",
+              "RelativeDocumentMoniker": "odunc.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\odunc.cs",
+              "RelativeToolTip": "odunc.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAlwK4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:51:02.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "destek.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\destek.cs",
+              "RelativeDocumentMoniker": "destek.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\destek.cs [Tasar\u0131m]",
+              "RelativeToolTip": "destek.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:15:15.202Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "anaform.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\anaform.cs",
+              "RelativeDocumentMoniker": "anaform.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\anaform.cs",
+              "RelativeToolTip": "anaform.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAlwFUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:15:03.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "anaform.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\anaform.cs",
+              "RelativeDocumentMoniker": "anaform.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\anaform.cs [Tasar\u0131m]",
+              "RelativeToolTip": "anaform.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:15:02.513Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "gecikmiskitaplar.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\gecikmiskitaplar.cs",
+              "RelativeDocumentMoniker": "gecikmiskitaplar.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\gecikmiskitaplar.cs",
+              "RelativeToolTip": "gecikmiskitaplar.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAlwEgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:09:14.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "dogrula.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\dogrula.cs",
+              "RelativeDocumentMoniker": "dogrula.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\dogrula.cs",
+              "RelativeToolTip": "dogrula.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAlwD8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:09:13.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "destek.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\destek.cs",
+              "RelativeDocumentMoniker": "destek.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\PROJE 2 SON VERS\u0130YON\\Face-Detection-main\\FaceRecProOV\\destek.cs",
+              "RelativeToolTip": "destek.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAlwB4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:09:11.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
