@@ -3,7 +3,7 @@
 
 Bu proje, Emgu kütüphanesi kullanılarak C# Forms ile geliştirilmiş bir kütüphane otomasyon sistemini kapsamaktadır. Sistem, öğrenci ve yöneticilerin kütüphane kaynaklarına erişimini ve yönetimini kolaylaştırmak amacıyla tasarlanmıştır.
 
-![Kütüphane Ekran Görüntüsü](./anaform1.png)
+![Kütüphane Ekran Görüntüsü](https://github.com/firat404engin/CSharp-ve-emgu--yuz-tanima-sistemli-kutuphane-otomasyonu/raw/main/md51.png)
 
 
 ## Özellikler
