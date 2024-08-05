@@ -3,6 +3,9 @@
 
 Bu proje, Emgu kütüphanesi kullanılarak C# Forms ile geliştirilmiş bir kütüphane otomasyon sistemini kapsamaktadır. Sistem, öğrenci ve yöneticilerin kütüphane kaynaklarına erişimini ve yönetimini kolaylaştırmak amacıyla tasarlanmıştır.
 
+![Kütüphane Ekran Görüntüsü](anaform.png)
+
+
 ## Özellikler
 
 - **Öğrenci Kayıt ve Yönetimi:** Öğrenci bilgilerini kaydeder ve yönetir.
