@@ -28,6 +28,7 @@ Sistem, kullanıcı dostu bir arayüz sunar ve kütüphane işlemlerini dijitall
 
 - **Şifreleme:** Veritabanındaki öğrenci bilgileri güvenliğin sağlanması için şifrelenmiş olarak saklanmaktadır. Öğrenci şifreleri, MD5 fonksiyonu kullanılarak şifrelenir. Bu işlem, öğrencinin şifresinin doğrudan okunamaz hale gelmesini sağlar ve güvenliği artırır.
 - **Yüz Tanıma:** Emgu kütüphanesi, sistemin yüz tanıma fonksiyonunu destekler ve yönetici girişlerinde ek güvenlik sağlar. Çok aşamalı kimlik doğrulama süreci sayesinde yetkisiz erişimler engellenir ve sistem güvenliği güçlendirilir.
+- ![Kütüphane Ekran Görüntüsü](md5.png)
 
 ## Sonuç
 
