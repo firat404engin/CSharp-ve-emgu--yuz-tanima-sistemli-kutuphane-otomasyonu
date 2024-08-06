@@ -6,7 +6,7 @@ Tabii, işte projeye uygun emojilerle süslenmiş ve GitHub için yapılandırı
 
 Bu proje, Emgu kütüphanesi kullanılarak C# Forms ile geliştirilmiş bir kütüphane otomasyon sistemini kapsamaktadır. Sistem, öğrenci ve yöneticilerin kütüphane kaynaklarına erişimini ve yönetimini kolaylaştırmak amacıyla tasarlanmıştır.
 
-![Kütüphane Ekran Görüntüsü](images/anaform.png)
+![Kütüphane Ekran Görüntüsü](anaform.png)
 
 ## 🚀 Özellikler
 
@@ -31,7 +31,7 @@ Sistem, kullanıcı dostu bir arayüz sunar ve kütüphane işlemlerini dijitall
 - **Şifreleme:** Veritabanındaki öğrenci bilgileri güvenliğin sağlanması için şifrelenmiş olarak saklanmaktadır. Öğrenci şifreleri, MD5 fonksiyonu kullanılarak şifrelenir. Bu işlem, öğrencinin şifresinin doğrudan okunamaz hale gelmesini sağlar ve güvenliği artırır. 🔐
 - **Yüz Tanıma:** Emgu kütüphanesi, sistemin yüz tanıma fonksiyonunu destekler ve yönetici girişlerinde ek güvenlik sağlar. Çok aşamalı kimlik doğrulama süreci sayesinde yetkisiz erişimler engellenir ve sistem güvenliği güçlendirilir. 🛡️
 
-![Güvenlik Ekran Görüntüsü](images/md5.png)
+![Güvenlik Ekran Görüntüsü](md5.png)
 
 ## 🎯 Sonuç
 
