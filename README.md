@@ -1,6 +1,3 @@
-Tabii, işte projeye uygun emojilerle süslenmiş ve GitHub için yapılandırılmış açıklama:
-
----
 
 # 📚 Kütüphane Otomasyon Sistemi
 
